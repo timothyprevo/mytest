@@ -7,4 +7,3 @@
 Using R to commit changes 
 
 +Git to R
-
